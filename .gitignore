@@ -1,0 +1,7 @@
+# Folders
+.vscode/
+_notes/
+
+# Files
+*.log
+*.pdf

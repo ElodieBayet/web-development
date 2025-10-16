@@ -1,0 +1,11 @@
+# Docker
+# Sample DockerfileV1
+# Build : docker build -t myapp4:v1 . -f DockerfileV1
+# Run : docker run myapp4:v1
+
+FROM alpine:3.17
+COPY hello.c /
+# Installation du compilateur gcc pour C et compilation du programme en C
+RUN apk add gcc libc-dev \
+    && gcc -o hello hello.c
+CMD ["/hello"]

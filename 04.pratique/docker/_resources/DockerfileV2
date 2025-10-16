@@ -1,0 +1,12 @@
+# Docker
+# Sample DockerfileV2 
+# Build : docker build -t myapp4:v2 . -f DockerfileV2
+# Run : docker run myapp4:v2
+
+FROM alpine:3.17 AS first
+COPY hello.c /
+RUN apk add gcc libc-dev
+    && gcc -o hello hello.c
+FROM alpine:3.17 AS second
+COPY --from=first hello /
+CMD ["/hello"]
