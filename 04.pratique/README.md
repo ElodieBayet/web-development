@@ -4,8 +4,8 @@
 ## Table des matières
 
 #### Agile
-- Méthodologie
-- Scrum
+- [Méthodologie](./agile/01.methodologie.md)
+- [Scrum](./agile/02.scrum.md)
 
 #### Git
 
@@ -18,4 +18,4 @@
 
 #### Utiles
 - [Shell](./utiles/shell.md)
-- SSH
+- [SSH](./utiles/ssh.md)

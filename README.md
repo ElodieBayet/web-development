@@ -44,13 +44,15 @@ Ce projet peut être utilisé dans un cadre d'apprentissage individuel et privé
 #### **4.** [Pratique](./04.pratique/)
 
 1. Agile
-    - _(à suivre)_
+    - [Méthodologie](./04.pratique/agile/01.methodologie.md)
+    - [Scrum](./04.pratique/agile/02.scrum.md)
 1. Docker
     - [Conteneurisation](./04.pratique/docker/01.conteneurisation.md)
     - [Fondamentale](./04.pratique/docker/02.fondamentale.md)
     - [Avancée](./04.pratique/docker/03.avancee.md)
 1. Utiles
     - [Shell](./04.pratique/utiles/shell.md)
+    - [SSH](./04.pratique/utiles/ssh.md)
     - _(à suivre)_
 
 
