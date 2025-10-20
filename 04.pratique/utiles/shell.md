@@ -1,6 +1,20 @@
 
 # Pratique : Shell
 
+## Sommaire
+1. [Généralités](#généralités)
+    - [Commandes](#commades)
+1. [Scripts](#scripts)
+    - [Base](#base)
+    - [Conditions](#conditions)
+    - [Boucles](#boucles)
+1. [Annexes](#annexes)
+    - [Glossaire](#glossaire)
+    - [Pour en savoir plus](#pour-en-savoir-plus)
+
+---
+
+
 ## Généralités
 
 _Shell_ désigne un interpréteur de commande dans les systèmes _Unix_. _Bash_ est l'un des _Shell_ existant dans _Unix_. Mais aussi _zsh_ ou _csh_.

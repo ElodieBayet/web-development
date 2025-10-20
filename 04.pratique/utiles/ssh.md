@@ -1,6 +1,20 @@
 
 # Pratique : Secure Shell
 
+## Sommaire
+1. [Généralités](#généralités)
+    - [Secure Shell](#secure-shell)
+    - [Protocole SSH](#protocole-ssh)
+    - [Clés SSH](#clés-ssh)
+1. [Utilisation](#utilisation)
+    - [WSL et Linux](#wsl-et-linux)
+1. [Annexes](#annexes)
+    - [Glossaire](#glossaire)
+    - [Pour en savoir plus](#pour-en-savoir-plus)
+
+---
+
+
 ## Généralités
 
 ### Secure Shell
