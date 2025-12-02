@@ -45,11 +45,12 @@ Ce projet peut être utilisé dans un cadre d'apprentissage individuel et privé
 
 1. Agile
     - [Méthodologie](./04.pratique/agile/01.methodologie.md)
-    - [Scrum](./04.pratique/agile/02.scrum.md)
+    - [Framework Scrum](./04.pratique/agile/02.scrum.md)
+    - [Product Backlog](./04.pratique/agile/03.product_backlog.md)
 1. Docker
     - [Conteneurisation](./04.pratique/docker/01.conteneurisation.md)
-    - [Fondamentale](./04.pratique/docker/02.fondamentale.md)
-    - [Avancée](./04.pratique/docker/03.avancee.md)
+    - [Connaissance fondamentale](./04.pratique/docker/02.fondamentale.md)
+    - [Connaissance avancée](./04.pratique/docker/03.avancee.md)
 1. Utiles
     - [Shell](./04.pratique/utiles/shell.md)
     - [SSH](./04.pratique/utiles/ssh.md)
