@@ -67,7 +67,7 @@ Initialisation d'une connection SSH
 - Négociation de l'algorithme cryptographique et des autres options à utiliser
 - Négociation d'un clé de session à usage unique pour crypter le reste de la session de connexion
 - Authentification du serveur avec sa clé d'hôte
-- Authentification de l'utilisateur avec un mot de passe (la passphrase), la clé plublique d'autentification, ou d'autres moyens
+- Authentification de l'utilisateur avec un mot de passe (la passphrase), la clé publique d'autentification, ou d'autres moyens
 
 
 ---

@@ -54,6 +54,9 @@ Ce projet peut être utilisé dans un cadre d'apprentissage individuel et privé
 1. Utiles
     - [Shell](./04.pratique/utiles/shell.md)
     - [SSH](./04.pratique/utiles/ssh.md)
+    - [WSL et Docker](./04.pratique/utiles/wsl_docker.md)
+    - [PHP](./04.pratique/utiles/php.md)
+    - [Composer et Symfony](./04.pratique/utiles/composer_symfony.md)
     - _(à suivre)_
 
 
